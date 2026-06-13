@@ -18,4 +18,4 @@ A responsive and visually optimized web application landing page designed for a 
 * Standardized form structures for reservation/contact segments.
 
 ##  Live Deployment
-Experience the live application here: [Launch Live Demo](tablawy412.github.io/coffe-shop/)
+Experience the live application here: [Launch Live Demo](https://tablawy412.github.io/coffe-shop/)
